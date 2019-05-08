@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://s2.com/index.html</loc>
-    <lastmod>2019-04-28</lastmod>
+    <lastmod>2019-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,6 +38,153 @@
     <image:image>
       <image:loc>http://s2.com/images/captura%20de%20pantalla%202019-04-27%20a%20la(s)%2081918%20a%20m%201.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/libro-colorear-07.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/libro-colorear-09.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/libro-colorear-08.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/intro.html</loc>
+    <lastmod>2019-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/adjuy.html</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/san.html</loc>
+    <lastmod>2019-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/adjuy-2.html</loc>
+    <lastmod>2019-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/mish-5.html</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://s2.com/images/08-daydream-comics-5.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/f2.html</loc>
+    <lastmod>2019-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://s2.com/images/postal-02.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/postal-03.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/mish-3.html</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://s2.com/images/08-daydream-comics-4.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/mish-2.html</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://s2.com/images/08-daydream-comics-2.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/mish-4.html</loc>
+    <lastmod>2019-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://s2.com/images/08-daydream-comics-4.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/sin-t%C3%ADtulo-22.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/michelle.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/mish-1.html</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://s2.com/images/08-daydream-comics-1.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/javi2.html</loc>
+    <lastmod>2019-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-12.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-13.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-16.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-17.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-18.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://s2.com/nicolas-guillen.html</loc>
+    <lastmod>2019-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/juan-pablo.html</loc>
+    <lastmod>2019-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/tiago.html</loc>
+    <lastmod>2019-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/javiera.html</loc>
+    <lastmod>2019-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://s2.com/paulo-freire.html</loc>
@@ -56,201 +203,33 @@
   </url>
   <url>
     <loc>http://s2.com/felipe.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/santos.html</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/manifesto.html</loc>
     <lastmod>2019-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/sin-t%C3%ADtulo-20.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-12.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-13.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-19.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-16.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-17.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-21.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-15.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-20.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-14.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/svg-dtruct_mesa-de-trabajo-1-copia-18.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://s2.com/nicolas-guillen.html</loc>
+    <loc>http://s2.com/mauricio.html</loc>
     <lastmod>2019-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/sin-t%C3%ADtulo-21.html</loc>
-    <lastmod>2019-04-28</lastmod>
+    <loc>http://s2.com/san2.html</loc>
+    <lastmod>2019-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-27.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-20.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-66.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-24.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-31.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-21.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-58.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-38.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-26.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-23.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-46.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-34.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-28.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-40.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-39.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-49.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-44.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-25.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-48.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-37.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-30.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-53.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-67.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-64.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-35.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-36.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-22.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-57.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-29.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-51.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-56.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-54.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-61.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-33.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-32.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-65.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-47.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-43.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-50.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-41.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-45.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-42.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-62.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-52.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-60.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-55.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-63.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://s2.com/images/san-dtruct-59.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://s2.com/images/b-san-dtruct-24.svg</image:loc>
     </image:image>
@@ -397,13 +376,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://s2.com/we.html</loc>
+    <loc>http://s2.com/leslie.html</loc>
     <lastmod>2019-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/lorena.html</loc>
+    <loc>http://s2.com/we.html</loc>
     <lastmod>2019-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -415,74 +394,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/manifesto.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/mauricio.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://s2.com/andres.html</loc>
     <lastmod>2019-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/san.html</loc>
+    <loc>http://s2.com/lorena.html</loc>
     <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/juan-pablo.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/tiago.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/javiera.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/adjuy.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/leslie.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/santos.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/intro.html</loc>
-    <lastmod>2019-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/assets/fondo_mesa-de-trabajo-1.svg</loc>
-    <lastmod>2019-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -493,20 +412,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/assets/ste-004.wav</loc>
-    <lastmod>2008-07-16</lastmod>
+    <loc>http://s2.com/assets/test-2.mp4</loc>
+    <lastmod>2019-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/assets/secuencia-01_sub_04.mp4</loc>
-    <lastmod>2019-04-15</lastmod>
+    <loc>http://s2.com/assets/banana-split.mp4</loc>
+    <lastmod>2019-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/assets/ste-002.wav</loc>
-    <lastmod>2008-07-16</lastmod>
+    <loc>http://s2.com/assets/audio_banana-split_1.mp3</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/assets/banana-split.webm</loc>
+    <lastmod>2019-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -517,7 +442,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/assets/secuencia-01_sub_01.mp4</loc>
+    <loc>http://s2.com/assets/ave-maria.mp3</loc>
+    <lastmod>2016-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/assets/ste-002.wav</loc>
+    <lastmod>2008-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/assets/secuencia-01_sub_03.mp4</loc>
+    <lastmod>2019-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://s2.com/assets/secuencia-01_sub_04.mp4</loc>
     <lastmod>2019-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -529,26 +472,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/assets/secuencia-01_sub_03.mp4</loc>
-    <lastmod>2019-04-15</lastmod>
+    <loc>http://s2.com/assets/04-human-sadness.mp3</loc>
+    <lastmod>2019-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://s2.com/assets/test-2.mp4</loc>
-    <lastmod>2019-02-25</lastmod>
+    <loc>http://s2.com/assets/secuencia-01_sub_01.mp4</loc>
+    <lastmod>2019-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://s2.com/assets/mauricio-prueba.mp3</loc>
     <lastmod>2019-04-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://s2.com/assets/04-human-sadness.mp3</loc>
-    <lastmod>2014-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
